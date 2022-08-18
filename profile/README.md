@@ -11,7 +11,7 @@
         <br />
         <a href="https://lists.cs.columbia.edu/mailman/listinfo/cucyber">Join our mailing list!</a>
         <br />
-        <img src="small_cucyber_logo.png"/>
+        <img src="https://github.com/CUCTF/.github/raw/main/profile/small_cucyber_logo.png"/>
         <br />
         <a href="http://cucyber.cs.columbia.edu/">Website</a>
         •
