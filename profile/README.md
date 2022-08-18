@@ -27,7 +27,7 @@
         <br />
       For <b>Google Drive and Calendar access</b>, please log into your Columbia email account.
         <br />
-      For <b>Github access</b>, join <a href="https://cucyber.slack.com/">our Slack</a> and post your GitHub username in the <code>#accounts</code> channel. 
+      For <b>Github access</b>, join <a href="https://cucyber.slack.com/">our Slack</a> and post your GitHub username in the <code>#account-requests</code> channel. 
         <br />
     </p>
     <hr />
